@@ -33,12 +33,11 @@ A few resources to get you started if this is your first Flutter project:
   #main p{
       display: inline;
   }
-  
-  #main img{
-      border: 2px solid #d0cbcb;
-      }
+ 
+  #main img{ border: 2px solid #d0cbcb;}
 
 </style>
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
