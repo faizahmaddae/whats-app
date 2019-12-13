@@ -5,6 +5,10 @@ class CameraPage extends StatefulWidget {
   _CameraPageState createState() => _CameraPageState();
 }
 
+void test(){
+  
+}
+
 class _CameraPageState extends State<CameraPage> {
   @override
   Widget build(BuildContext context) {
