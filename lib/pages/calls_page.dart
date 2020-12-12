@@ -4,7 +4,6 @@ class CallsPage extends StatefulWidget {
   @override
   _CallsPageState createState() => _CallsPageState();
 }
-
 class _CallsPageState extends State<CallsPage> {
   @override
   Widget build(BuildContext context) {
@@ -18,7 +17,6 @@ class _CallsPageState extends State<CallsPage> {
       ),
     );
   }
-
   itmes(int index) {
     return InkWell(
       onTap: () {},
