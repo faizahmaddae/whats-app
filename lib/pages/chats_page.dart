@@ -5,7 +5,6 @@ class Chatspage extends StatefulWidget {
   @override
   _ChatspageState createState() => _ChatspageState();
 }
-
 class _ChatspageState extends State<Chatspage> {
   @override
   Widget build(BuildContext context) {
