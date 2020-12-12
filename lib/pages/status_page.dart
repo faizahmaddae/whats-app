@@ -4,7 +4,8 @@ class StatusPage extends StatefulWidget {
   @override
   _StatusPageState createState() => _StatusPageState();
 }
-
+// by faiz ahmad dae
+// email: faiz ahmad dae
 class _StatusPageState extends State<StatusPage> {
   Widget get myStorie => new Container(
         margin: EdgeInsets.only(bottom: 10),
